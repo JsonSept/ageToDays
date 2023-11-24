@@ -21,10 +21,6 @@
     
     }
     
-    button :hover {
-       
-    }
-    
     @media screen and (max-width: 301px) {
         #container {
             width: 200px;
